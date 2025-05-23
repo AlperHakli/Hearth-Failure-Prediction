@@ -8,3 +8,9 @@ Throughout this notebook, we will:</br>
   Perform exploratory data analysis (EDA) to uncover patterns and insights</br>
   Train machine learning models for heart disease prediction</br>
   Evaluate and fine-tune the model to improve accuracy</br>
+
+
+  ## Explotary Data Analysis
+
+  ### İntroduction of all features
+  
